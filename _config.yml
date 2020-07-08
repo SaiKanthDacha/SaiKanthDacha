@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sai Kanth Dacha"
   avatar           : "/assets/images/IMG_3907_1.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "You biography for the left-hand sidebar"
   location         : "Washington, D.C. Metro Area"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
