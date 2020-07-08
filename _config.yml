@@ -84,7 +84,7 @@ author:
   avatar           : "/assets/images/IMG_3907_1.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Washington, D.C. Metro Area"
-  employer         : ""
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   medium           : "@saikanthdacha"
   googlescholar    : "https://scholar.google.com/citations?user=E0I73ZQAAAAJ&hl=en&authuser=1"
@@ -116,6 +116,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@saikanthdacha"
 
 
 # Reading Files
