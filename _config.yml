@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sai Kanth Dacha"
   avatar           : "/images/IMG_3907_1.jpg"
-  bio              : "PhD Candidate at University of Maryland"
+  bio              : "PhD Candidate at University of Maryland | Nonlinear Optics | Multimode Fibers"
   location         : "Washington, D.C. Metro Area"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   medium           : "@saikanthdacha"
   googlescholar    : "https://scholar.google.com/citations?user=E0I73ZQAAAAJ&hl=en&authuser=1"
-  email            :
+  email            : sdacha@umd.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
