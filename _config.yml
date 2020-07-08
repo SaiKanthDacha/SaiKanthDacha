@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sai Kanth Dacha"
-  avatar           : "/images/IMG_3907_1.jpg"
+  avatar           : "/assets/images/IMG_3907_1.png"
   bio              : "PhD Candidate at University of Maryland | Nonlinear Optics | Multimode Fibers"
   location         : "Washington, D.C. Metro Area"
   employer         : 
