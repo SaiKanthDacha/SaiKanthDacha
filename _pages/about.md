@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Sai Kanth, I am a graduate student at the University of Maryland. I am currently pursuing my PhD in Physics. In 2016, I graduated from the Indian Institute of Technology (IIT) Madras with a Bachelor of Technology (B. Tech) degree in Engineering Physics.
 
-My research interests lie in the broad area of photonics. Optical communication, nonlinear optics and multimode fiber optics are of specific interest to me. Through my work during my bachelor's degree, my summer research at Caltech's LIGO Laboratory and my current doctoral research, I have discovered my interest in the applications of photonics in modern day technologies and scientific experiments, from subsea fiber-optical communication to gravitational wave detectors. The potential to use of light in novel ways to improve our understanding of the universe or to push the limits of technology is what inspires me.
+My research interests lie in the broad area of photonics. Optical communication, nonlinear optics and multimode fiber optics are of specific interest to me. Through my work during my bachelor's degree, my summer research at Caltech's LIGO Laboratory and my current doctoral research, I have discovered my interest in the applications of photonics in modern day technologies and scientific experiments, from subsea fiber-optical communication to gravitational wave detectors. The potential to use light in novel ways to improve our understanding of the universe or to push the limits of technology is what inspires me.
 
 ## Current Research
 
