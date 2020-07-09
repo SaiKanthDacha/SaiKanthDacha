@@ -12,7 +12,7 @@ redirect_from:
 
 ### **1. Nonlinear Optics in Multimode & Few-mode Fibers**
 
-*January 2017 - present; **Graduate Research** (**[Photonics Research Laboratory](www.photonics.umd.edu), UMD**)*
+*January 2017 - present*; *Graduate Research* *(**[Photonics Research Laboratory](www.photonics.umd.edu), UMD**)*
 
 *Guide: Prof. Thomas Murphy, **Institute for Research in Electronics and Applied Physics (IREAP)**, University of Maryland*
 
