@@ -31,11 +31,11 @@ redirect_from:
 
 ### **3. Ultra-precise Sensing and Control of Suspended Optics Breadboard in the Crackle Experiment**
 
-*May-August 2015, as part of [**LIGO SURF**](http://www.google.com/url?q=http%3A%2F%2Flabcit.ligo.caltech.edu%2FLIGO_web%2Fstudents%2FSURF%2Findex.shtml&sa=D&sntz=1&usg=AFQjCNFgZJIcTHdNTzY7-LJzMn418mW73w) **2015** at **Caltech***
+*May-August 2015, as part of [LIGO SURF](https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/index.shtml) 2015 at Caltech*
 
-*Guides: Dr. Gabriele Vajente, Prof. Rana Adhikari, California Institute of Technology (Caltech)*
+*Guides: Dr. Gabriele Vajente, Prof. Rana Adhikari, **California Institute of Technology (Caltech)***
 
-- Worked on the Crackling Noise detection experiment, which aims at detecting crackling noise arising in Maraging Steel blade springs used in the Advanced [LIGO](http://www.google.com/url?q=http%3A%2F%2Fligo.org%2F&sa=D&sntz=1&usg=AFQjCNHijrDocC4IhsuXKOhiTb5gUcblOg) suspension systems.
+- Worked on the Crackling Noise detection experiment, which aims at detecting crackling noise arising in Maraging Steel blade springs used in the Advanced [LIGO](https://www.ligo.org) suspension systems.
 - Successfully designed, developed and implemented a feedback damping system for a suspended optics breadboard that was part of the ultra-sensitive Crackling Noise detection setup.
 -  The damping system that I developed helped improve sensitivity of the setup by a factor of 10 in the region of interest.
 
@@ -50,9 +50,9 @@ redirect_from:
 
 ### **5. Simulation and Analysis of Pentacene-based Organic Field Effect Transistors**
 
-*May-August 2014, as part of a research internship at **Defence Research and Development Organization (DRDO)**, Govt. of India*
+*May-August 2014, as part of a research internship at Defence Research and Development Organization (DRDO), Govt. of India*
 
-*Guides: Dr. E Varadarjan, Scientist E, DRDO*
+*Guides: Dr. E Varadarjan, Scientist E, **DRDO***
 
 - Used Silvaco TCAD tools to simulate Pentacene-based organic ﬁeld eﬀect transistors to study device characteristics and mobility performance.
 - Successfully obtained transfer and drain characteristics of the transistor that matched with the expected results and experimental data reported in literature.
@@ -62,7 +62,7 @@ redirect_from:
 
 *Aug 2013 - March 2014*
 
-*As a member of IIT Madras' team for [**ABU Robocon**](http://www.google.com/url?q=http%3A%2F%2Fwww.roboconindia.com%2F&sa=D&sntz=1&usg=AFQjCNGK5qN8Xj3svQEHDDZ6SH09ZTOZDg) 2014; worked at the [**Centre for Innovation (CFI)**](http://www.google.com/url?q=http%3A%2F%2Fwww.cfi.iitm.ac.in%2F&sa=D&sntz=1&usg=AFQjCNEz2j3VsLytdGfD0B5SHxan7gtjcg), the student laboratory of IIT Madras*
+*As a member of IIT Madras' team for [**ABU Robocon**](http://www.google.com/url?q=http%3A%2F%2Fwww.roboconindia.com%2F&sa=D&sntz=1&usg=AFQjCNGK5qN8Xj3svQEHDDZ6SH09ZTOZDg) 2014; worked at the [**Centre for Innovation (CFI)**](https://www.cfi.iitm.ac.in), the student laboratory of IIT Madras*
 
 - Responsible for the electronics and control systems of the robot that represented IIT Madras at the ABU Robocon 2014 contest.
 - Built an embedded system consisting of microcontrollers, advanced DC motor controllers, pneumatic pistons, vacuum valves etc.
@@ -72,7 +72,7 @@ redirect_from:
 
 *April-September 2013*
 
-*Student-led project; worked at the [**Centre for Innovation (CFI)**](http://www.google.com/url?q=http%3A%2F%2Fwww.cfi.iitm.ac.in%2F&sa=D&sntz=1&usg=AFQjCNEz2j3VsLytdGfD0B5SHxan7gtjcg), the student laboratory of IIT Madras*
+*Student-led project; worked at the [**Centre for Innovation (CFI)**](https://www.cfi.iitm.ac.in)*
 
 - Used omnidirectional wheels to develop a robot locomotion system capable of moving in any direction without changing its orientation.
 - Developed algorithms and programmed the robot to track its own position on the arena, and autonomously trace any predeﬁned path ith precision, without changing its orientation at all. 
