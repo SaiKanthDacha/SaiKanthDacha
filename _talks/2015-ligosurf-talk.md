@@ -9,3 +9,4 @@ location: "Livingston, Louisiana"
 ---
 
 At the LIGO facility in Livingston, LA, I presented my summer research on methods to improve the control system of a suspended optical breadboard setup that was part of the crackle noise measurement setup at the Caltech LIGO Laboratory.
+
