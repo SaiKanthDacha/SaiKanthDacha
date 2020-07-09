@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-**1. Nonlinear Optics in Multimode & Few-mode Fibers**
+### **1. Nonlinear Optics in Multimode & Few-mode Fibers**
 
 *January 2017 - present; **Graduate Research** (**Photonics Research Laboratory, UMD**)*
 
@@ -18,7 +18,7 @@ redirect_from:
 
 - Experimentally investigating complex nonlinear interactions between spatial modes of multimode and few-mode fibers arising from Kerr and Raman optical nonlinearities.
 
- **2. Phase Sensitive Amplification (PSA) in a Semiconductor Optical Amplifier**
+###  **2. Phase Sensitive Amplification (PSA) in a Semiconductor Optical Amplifier**
 
 *September 2015 - June2016; Bachelor's Thesis Project*
 
@@ -29,7 +29,7 @@ redirect_from:
 - Also demonstrated the regeneration of BPSK signals by squeezing phase noise below the standard quantum limit.
 - Developed a systematic method for fixing the operating point of the PSA device.
 
-\3. **Ultra-precise Sensing and Control of Suspended Optics Breadboard in the Crackle Experiment**
+### **3. Ultra-precise Sensing and Control of Suspended Optics Breadboard in the Crackle Experiment**
 
 *May-August 2015, as part of [**LIGO SURF**](http://www.google.com/url?q=http%3A%2F%2Flabcit.ligo.caltech.edu%2FLIGO_web%2Fstudents%2FSURF%2Findex.shtml&sa=D&sntz=1&usg=AFQjCNFgZJIcTHdNTzY7-LJzMn418mW73w) **2015** at [**Caltech**](http://www.google.com/url?q=http%3A%2F%2Fwww.caltech.edu%2F&sa=D&sntz=1&usg=AFQjCNE5rimyQKAwD0-Vsc2ISIPkIg-Zow)*
 
@@ -39,7 +39,7 @@ redirect_from:
 - Successfully designed, developed and implemented a feedback damping system for a suspended optics breadboard that was part of the ultra-sensitive Crackling Noise detection setup.
 -  The damping system that I developed helped improve sensitivity of the setup by a factor of 10 in the region of interest.
 
-\4. **Experimental Investigation of Photon Statistics in Pseudo-Thermal Laser Sources**
+### **4. Experimental Investigation of Photon Statistics in Pseudo-Thermal Laser Sources**
 
 *December 2014 - April 2015*
 
