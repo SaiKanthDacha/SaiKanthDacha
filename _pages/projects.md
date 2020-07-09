@@ -12,7 +12,7 @@ redirect_from:
 
 ### **1. Nonlinear Optics in Multimode & Few-mode Fibers**
 
-*January 2017 - present; **Graduate Research** (**Photonics Research Laboratory, UMD**)*
+*January 2017 - present; **Graduate Research** (**[Photonics Research Laboratory](www.photonics.umd.edu), UMD**)*
 
 *Guide: Prof. Thomas Murphy, **Institute for Research in Electronics and Applied Physics (IREAP)**, University of Maryland*
 
@@ -31,9 +31,9 @@ redirect_from:
 
 ### **3. Ultra-precise Sensing and Control of Suspended Optics Breadboard in the Crackle Experiment**
 
-*May-August 2015, as part of [**LIGO SURF**](http://www.google.com/url?q=http%3A%2F%2Flabcit.ligo.caltech.edu%2FLIGO_web%2Fstudents%2FSURF%2Findex.shtml&sa=D&sntz=1&usg=AFQjCNFgZJIcTHdNTzY7-LJzMn418mW73w) **2015** at [**Caltech**](http://www.google.com/url?q=http%3A%2F%2Fwww.caltech.edu%2F&sa=D&sntz=1&usg=AFQjCNE5rimyQKAwD0-Vsc2ISIPkIg-Zow)*
+*May-August 2015, as part of [**LIGO SURF**](http://www.google.com/url?q=http%3A%2F%2Flabcit.ligo.caltech.edu%2FLIGO_web%2Fstudents%2FSURF%2Findex.shtml&sa=D&sntz=1&usg=AFQjCNFgZJIcTHdNTzY7-LJzMn418mW73w) **2015** at **Caltech***
 
-*Guides: Dr. Gabriele Vajente, Prof. Rana Adhikari, [California Institute of Technology (Caltech)](http://www.google.com/url?q=http%3A%2F%2Fwww.caltech.edu%2F&sa=D&sntz=1&usg=AFQjCNE5rimyQKAwD0-Vsc2ISIPkIg-Zow)*
+*Guides: Dr. Gabriele Vajente, Prof. Rana Adhikari, California Institute of Technology (Caltech)*
 
 - Worked on the Crackling Noise detection experiment, which aims at detecting crackling noise arising in Maraging Steel blade springs used in the Advanced [LIGO](http://www.google.com/url?q=http%3A%2F%2Fligo.org%2F&sa=D&sntz=1&usg=AFQjCNHijrDocC4IhsuXKOhiTb5gUcblOg) suspension systems.
 - Successfully designed, developed and implemented a feedback damping system for a suspended optics breadboard that was part of the ultra-sensitive Crackling Noise detection setup.
@@ -43,14 +43,14 @@ redirect_from:
 
 *December 2014 - April 2015*
 
-*Guide: Dr. CV Krishnamurthy, [**Department of Physics, IIT Madras**](https://www.google.com/url?q=https%3A%2F%2Fphysics.iitm.ac.in%2F&sa=D&sntz=1&usg=AFQjCNEeAUWWp9xIwYoLwXKd9-ffh10mvA)*
+*Guide: Dr. CV Krishnamurthy, **Department of Physics, IIT Madras***
 
 - Built an experimental setup to study the statistics of photons emerging from a pseudo-thermal light source. Using low cost equipment such as APD as opposed to conventionally used and costly PMT’s.
 - The aim is to extract photon statistics without single photon counting as is done in traditional experiments.
 
-\5. **Simulation and Analysis of Pentacene-based Organic Field Effect Transistors**
+### **5. Simulation and Analysis of Pentacene-based Organic Field Effect Transistors**
 
-*May-August 2014, as part of a research internship at [**Defence Research and Development Organization (DRDO)**](http://www.google.com/url?q=http%3A%2F%2Fwww.drdo.gov.in%2Fdrdo%2FEnglish%2Findex.jsp%3Fpg%3Dhomebody.jsp&sa=D&sntz=1&usg=AFQjCNFpIdi9bnVM0zHRcCJDtdq4iKCHhQ), Govt. of India*
+*May-August 2014, as part of a research internship at **Defence Research and Development Organization (DRDO)**, Govt. of India*
 
 *Guides: Dr. E Varadarjan, Scientist E, DRDO*
 
@@ -58,7 +58,7 @@ redirect_from:
 - Successfully obtained transfer and drain characteristics of the transistor that matched with the expected results and experimental data reported in literature.
 - Performed a literature study on techniques for improving carrier mobility in organic semiconductor devices.
 
-\6. **Design and Development of Semi-Autonomous Transwheel Robot for ABU Robocon 2014**
+### **6. Design and Development of Semi-Autonomous Transwheel Robot for ABU Robocon 2014**
 
 *Aug 2013 - March 2014*
 
@@ -68,7 +68,7 @@ redirect_from:
 - Built an embedded system consisting of microcontrollers, advanced DC motor controllers, pneumatic pistons, vacuum valves etc.
 - Devised algorithms for solving the contest problem statement in the minimum possible time.
 
-\7. **Autonomous Navigation and Control System for 3-transwheel Omnidirectional Locomotion System**
+### **7. Autonomous Navigation and Control System for 3-transwheel Omnidirectional Locomotion System**
 
 *April-September 2013*
 
