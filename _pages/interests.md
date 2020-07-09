@@ -11,11 +11,11 @@ redirect_from:
 
 ### Photography
 
-I am an avid photographer. I own the Canon EOS 1200D DSLR with the 18-55 mm and 55-250 mm lenses. The fascinatingly beautiful campus that IIT Madras was, it proved to be paradise for the wildlife photographer and nature lover in me. I maintain an online portfolio of my pictures on [500px](https://www.google.com/url?q=https%3A%2F%2F500px.com%2Fsaikanthdacha&sa=D&sntz=1&usg=AFQjCNGa0H1FyoNikYTcgukvnWaR2fdVZg) and [Instagram](https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fsaikanthdacha%2F&sa=D&sntz=1&usg=AFQjCNH4xfrxQIicgKvMajeobcBLsUm9dw).
+I am an avid photographer. I own the Canon EOS 1200D DSLR with the 18-55 mm and 55-250 mm lenses. The fascinatingly beautiful campus that IIT Madras was, it proved to be paradise for the wildlife photographer and nature lover in me. I maintain an online portfolio of my pictures on [500px](https://www.500px.com/saikanthdacha) and [Instagram](https://www.instagram.com/saikanthdacha).
 
 ### Writing
 
-Lately, I have taken to writing down my thoughts on issues that interest me. I find that writing helps me develop better clarity in my thoughts and opinions, and helps me think more critically. As my PhD supervisor would probably agree, I have some ways to go when it comes to writing well. But I hope to sustain this habit and improve. You can find my writing here on [Medium](http://www.google.com/url?q=http%3A%2F%2Fwww.medium.com%2F%40saikanthdacha&sa=D&sntz=1&usg=AFQjCNH8bycmIcXjSrj2_pnvAO0H-zlowQ).
+Lately, I have taken to writing down my thoughts on issues that interest me. I find that writing helps me develop better clarity in my thoughts and opinions, and helps me think more critically. As my PhD supervisor would probably agree, I have some ways to go when it comes to writing well. But I hope to sustain this habit and improve. You can find my writing here on [Medium](https://www.medium.com/@saikanthdacha).
 
 ### Biking
 
