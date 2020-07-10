@@ -192,6 +192,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  -external_feed
 
 
 # Defaults
