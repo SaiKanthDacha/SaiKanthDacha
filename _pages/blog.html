@@ -7,11 +7,7 @@ redirect_from:
   - 
 ---
 
-<section id="main" class="wrapper style1">
-  <header class="major">
-      <h2>Blog</h2>
-  </header>
-  {% for e in site.medium_posts %}
+{% for e in site.medium_posts %}
 
 <div class="row">
   <h3>{{e.title}}</h3>
@@ -20,4 +16,3 @@ redirect_from:
   {% endfor %}
 
 </div>
-</section>
