@@ -116,7 +116,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  links:
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@saikanthdacha"
 
 
 # Reading Files
@@ -190,8 +193,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-#collections:
- # - medium_posts
 
 # Defaults
 defaults:
