@@ -193,7 +193,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
+collections:
+  - medium_posts
+  
 # Defaults
 defaults:
   # _posts
