@@ -1,7 +1,7 @@
 ---
 title: "Spatiotemporal Characterization of Nonlinear Interactions between Selectively Excited Radially-Symmetric Modes of a Step-Index Few-Mode Fiber"
 collection: publications
-permalink: /publications/2020-arxiv
+permalink: /publication/2020-arxiv
 excerpt: ''
 date: 2020-04-30
 venue: 'arXiv.org'
