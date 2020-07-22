@@ -33,7 +33,7 @@ This apparent similarity might seem strange at first sight, but there is often a
 
 <img src="https://cdn-images-1.medium.com/max/1200/1*aP-ybyq48ErZWyOIZuSUnw.gif" alt="A light-hearted take on marriage and PhD" style="zoom:80%;" />
 
-<div align="center"> A light-hearted take on marriage and PhD | <a href="http://phdcomics.com/comics/archive.php?comicid=1296">© Jorge Cham</a></div>
+<div> A light-hearted take on marriage and PhD | <a href="http://phdcomics.com/comics/archive.php?comicid=1296">© Jorge Cham</a></div>
 
 <br/><br/>
 
