@@ -22,9 +22,9 @@ _“Am I good enough? Does s/he even recognize and appreciate what I’m doing?�
 
 Although these sound like the thoughts of someone worried if their partner/spouse is mad at them, these are also the kinds of thoughts that PhD students riddled with [Impostor Syndrome](https://www.apa.org/gradpsych/2013/11/fraud) often have about their advisors/PIs.
 
-
-
-![Impostor Syndrome](/Users/saikanthdacha/My files/Github Website/SaiKanthDacha/assets/images/blog/20200717_1.png)
+```ruby
+{% include image.html url="/images/my-cat.jpg" description="My cat, Robert Downey Jr." %}
+```
 
 ```html
 <p align="center">
