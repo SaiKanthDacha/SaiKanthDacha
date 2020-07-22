@@ -53,4 +53,4 @@ For the physicist in me, the prospect of space travel and exploration of our uni
 
 
 
-*This story was originally published by the author on [Medium](https://medium.com/@saikanthdacha/hopeful-for-a-better-tomorrow-50f131ad7abd).*
+*This story was originally published by the author on [Medium](https://link.medium.com/fofkDODGk8).*
