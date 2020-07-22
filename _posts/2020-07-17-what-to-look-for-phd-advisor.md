@@ -28,7 +28,9 @@ Although these sound like the thoughts of someone worried if their partner/spous
 
 This apparent similarity might seem strange at first sight, but there is often a deeper reality to it: a PhD advisor, and by extension the relationship that a student has with their advisor, has enormous influence over the graduate school experience of the student. Just as a romantic relationship requires effort, communication, honesty and integrity, so does the relationship with one’s PhD advisor.
 
-![A light-hearted take on marriage and PhD | [© Jorge Cham](http://phdcomics.com/comics/archive.php?comicid=1296)](https://cdn-images-1.medium.com/max/1200/1*aP-ybyq48ErZWyOIZuSUnw.gif)
+<img src="https://cdn-images-1.medium.com/max/1200/1*aP-ybyq48ErZWyOIZuSUnw.gif" alt="A light-hearted take on marriage and PhD" style="zoom:80%;" />
+
+###### *A light-hearted take on marriage and PhD | [© Jorge Cham](http://phdcomics.com/comics/archive.php?comicid=1296)*
 
 # The struggle is real
 
@@ -38,19 +40,19 @@ Program structures and academic supervision also have a big role to play. Specif
 
 # The “Obvious”
 
-#### **1.1) Research Areas, Type of Work:**
+## **1.1) Research Areas, Type of Work:**
 
 Assuming acceptance into a PhD program, the first “obvious” thing to look for in a potential advisor is their research interests. Often times, incoming PhD students already have a few research groups in mind before they join the program. This is good practice, but is far from sufficient.
 
 Perhaps the best advice that I’ve received on this topic is from my current advisor, when I first met him before joining his group: look for what it is that you would do on a day-to-day basis and see if you find that exciting, rather than make a choice purely based on research topics. Are you an experimentalist and enjoy hands-on work? If so, would you want to do system-level work or are you more interested in device fabrication? Or are you more inclined to do computational or theoretical work? Asking these questions in addition to what area you want to work in can greatly help in deciding which research group to join.
 
-#### 1.2) Funding:
+## 1.2) Funding:
 
 Funding for universities and scientific research is awfully lacking in many countries, and this is often reflected in the number of active researchers per million population. My own home country India, for instance, has only about [150 researchers per million](http://uis.unesco.org/apps/visualisations/research-and-development-spending/). Availability of grant funds can vary from one field to another, but generally speaking, there isn’t enough to go around. I have known far too many of my own peers who have had to either TA (in addition to doing research) for multiple years on end, or switch groups because funds ran out. As a result, it is usually helpful to check with a potential advisor if they are willing to fund you for the entire duration of your PhD.
 
 # The Less Obvious (And underrated)
 
-#### 2.1) The Human Being:
+## 2.1) The Human Being:
 
 Professors, especially the more popular ones, are some times made out to be larger-than-life figures who can do no wrong. The fact of the matter is that they are human beings, and have personalities and flaws just like everybody else. This might not matter to most people that interact with them, but it does to their PhD students.
 
@@ -62,13 +64,13 @@ As with toxic personal relationships, toxic professional relationships with PhD 
 
 Some of this is hard to assess before joining a group, of course. But talking to current group members and asking the right questions can give you a good sense of things. This, of course, is still not a sufficient enough or a clear-cut enough solution, but it’s a good start. And if you somehow do hear something about what kind of a person s/he is, you would know to not neglect that information.
 
-#### 2.2) The Researcher:
+## 2.2) The Researcher:
 
 Some researchers prioritize publishing as many papers as possible over all else, and go after quantity over quality. In my field, I have seen competitor groups that try to publish a new paper for every slightly-different result that they get in the lab. More often than not, this has made me desperate to get my work out as quickly as possible (in other words, prematurely). About a year ago, I insisted to my advisor that we submit some experimental observations that I made in the lab to a popular conference in my field. He said no. I persisted, and he still said no. He was not convinced that the data that I had collected was good enough to be published anywhere, despite my confidence in it.
 
 The publication-starved graduate student in me was disappointed and a little heart-broken, but I later realized that he had taught me an important lesson about scientific integrity. (The data that I was so confident about later turned out to be not so reliable after all!) In my view, the kind of researcher that your advisor is will greatly shape what kind of researcher you will go on to be.
 
-#### 2.3) Willingness to Invest in You:
+## 2.3) Willingness to Invest in You:
 
 **Time**: Professorship might seem like a laid-back job at times, but most professors that I’ve interacted with are incredibly busy people. In addition to managing multiple research projects, students and postdocs, they are often shooting for new grants, teaching courses, are on various committees and also taking care of their kids and family. While part of their unavailability is therefore more than understandable, some advisors don’t end up making enough time for their students at all. Whether or not you actually get advice from your advisor on a regular basis is key to your growth as a researcher.
 
@@ -76,7 +78,7 @@ The publication-starved graduate student in me was disappointed and a little hea
 
 Both of these are important aspects for a good learning experience, and it is a good idea to discuss them with current students of the advisor before making a decision.
 
-#### 2.4) Expectations and Communication:
+## 2.4) Expectations and Communication:
 
 New professors are often under pressure to publish at a faster pace to be able to keep their jobs. This usually means greater pressure on his/her graduate students to work harder. Older/tenured professors are a bit more “relaxed” in this regard. Neither is necessarily better than the other for a graduate student, but the potential workload and pressure is something to consider. Make sure you know what is expected of you before making the commitment, especially if you have other responsibilities (other jobs, kid(s) to take care of etc.).
 
@@ -86,11 +88,11 @@ The moral of the story is that being able to communicate with your advisor freel
 
 # Also “Obvious” (But overrated)
 
-#### 3.1) “Connections”/”Popularity”/h-index:
+## 3.1) “Connections”/”Popularity”/h-index:
 
 It could be tempting to readily join any “popular”/highly-published/well-connected professor’s group if they will have you, but this could prove counterproductive if you have not paid close enough attention to the more fundamental aspects that I’ve mentioned above. The professor that I mentioned before — the one that likes to ridicule his students needlessly in front of others — is extremely well-known in a worldwide scientific collaboration. He is one of the most brilliant people that I have ever met. But I would _not_ want to do my PhD with him.
 
-#### 3.2) University Affiliation:
+## 3.2) University Affiliation:
 
 This is a popular one too. Wouldn’t it be “cooler” to introduce yourself as a PhD student at Harvard or Cornell rather than one at Florida State? It probably would, but that doesn’t necessarily mean that it is better. It is true that Harvard or Cornell might offer you a better overall student experience than some lesser-known universities (not that Florida State isn’t well-known), but there are so many more important things for a PhD. In addition to what I’ve already mentioned above, research environment in the department, access to research facilities and potential collaborators are much more crucial for a well-rounded research experience — irrespective of whether that is at an Ivy League school or some other. These factors are not relevant for undergraduate studies, but for graduate research, they most certainly are.
 
@@ -104,7 +106,9 @@ Checking all of these boxes might not be possible for many. It certainly hasn’
 
 Despite the complaints that I’ve had some times, I am incredibly grateful for the extremely considerate human being and the brilliant researcher that my advisor is — in that order. My hope is that you will be too, for your future advisor.
 
-![Emailing a Professor | [© Jorge Cham](http://www.phdcomics.com)](https://cdn-images-1.medium.com/max/1300/1*R0-E-ER33D_RXF72oxWBsA.jpeg)
+![Emailing a Professor](https://cdn-images-1.medium.com/max/1300/1*R0-E-ER33D_RXF72oxWBsA.jpeg)
+
+###### *Emailing a Professor | © [Jorge Cham](http://www.phdcomics.com)*
 
 Needless to say, this article is neither “expert advice” nor “peer-reviewed”. But it was written with the hope that at least some of it will be useful. All this is is the inner thoughts of a 4th year PhD student that has hit multiple roadblocks on his research and is waiting for his advisor to respond to some of his emails.
 
