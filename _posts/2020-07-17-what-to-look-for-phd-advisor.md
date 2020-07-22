@@ -33,7 +33,8 @@ This apparent similarity might seem strange at first sight, but there is often a
 
 <img src="https://cdn-images-1.medium.com/max/1200/1*aP-ybyq48ErZWyOIZuSUnw.gif" alt="A light-hearted take on marriage and PhD" style="zoom:80%;" />
 
-<div align="center"> A light-hearted take on marriage and PhD | <a href="https://www.phdcomics.com">© Jorge Cham</a></div>
+<div align="center"> A light-hearted take on marriage and PhD | <a href="http://phdcomics.com/comics/archive.php?comicid=1296">© Jorge Cham</a></div>
+
 <br/><br/>
 
 
@@ -116,13 +117,13 @@ Despite the complaints that I’ve had some times, I am incredibly grateful for 
 
 <div align="center"> Emailing a Professor | <a href="https://www.phdcomics.com">© Jorge Cham</a></div>
 
-
+<br/><br/>
 
 Needless to say, this article is neither “expert advice” nor “peer-reviewed”. But it was written with the hope that at least some of it will be useful. All this is is the inner thoughts of a 4th year PhD student that has hit multiple roadblocks on his research and is waiting for his advisor to respond to some of his emails.
 
 _“Is he ghosting me?”_
 
-
+<div id="dot" align="center">.     .     .</div>
 
 
 

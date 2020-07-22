@@ -19,6 +19,10 @@ In late May, SpaceX and NASA pulled off a historic achievement: the first commer
 
 ![Reflection](https://cdn-images-1.medium.com/max/7760/1*Im_CFHjG5gWXq_fddIeqCQ.jpeg)
 
+<div align="center"> Reflection | Image © Author</div>
+
+<br></br>
+
 # A fallacy and a correlation
 
 Over the past few decades, the world has witnessed change at an unprecedented pace. The forces of science, technology and globalization have transformed our societies and nations beyond recognition. For those that were born early enough to have witnessed this change first hand, it is all too easy to fall into the illusion that we have also made commensurate progress on other fronts. This is a fallacy. Racial justice, gender equality, religious freedom and human rights are far from reality for far too many of us. The pervasiveness of smartphones and social media has certainly given a voice to everyone irrespective of their race, religion or gender, but that in itself has not solved any real problem. Our social life — both on and off of social media — continues to be influenced by the same old prejudices and stereotypes.
@@ -51,6 +55,6 @@ We must build a collective habit of learning about difficulties faced by not jus
 
 For the physicist in me, the prospect of space travel and exploration of our universe is incredibly exciting. But for the human in me, that prospect is only meaningful when _all_ of us can take part in it. And in making that happen, we all have a role to play.
 
-
+<div id="dot" align="center">.     .     .</div>
 
 *This story was originally published by the author on [Medium](https://link.medium.com/fofkDODGk8).*
