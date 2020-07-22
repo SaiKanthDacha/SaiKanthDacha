@@ -24,6 +24,8 @@ Although these sound like the thoughts of someone worried if their partner/spous
 
 
 
+![Impostor Syndrome](/Users/saikanthdacha/My files/Github Website/SaiKanthDacha/assets/images/blog/20200717_1.png)
+
 ```html
 <p align="center">
   <img src="https://cdn-images-1.medium.com/max/3646/1*PkjgmUn8qaSU6RKPBRp6nw.png">
