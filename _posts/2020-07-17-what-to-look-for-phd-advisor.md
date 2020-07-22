@@ -24,7 +24,7 @@ Although these sound like the thoughts of someone worried if their partner/spous
 
 !["Impostor Syndrome"](https://cdn-images-1.medium.com/max/3646/1*PkjgmUn8qaSU6RKPBRp6nw.png)
 
-###### *Impostor Syndrome | [Artwork © Laura Weiszer](https://www.behance.net/gallery/29504293/Impostor-Syndrome), [Creative Commons license*](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+###### *Impostor Syndrome | [Artwork © Laura Weiszer](https://www.behance.net/gallery/29504293/Impostor-Syndrome), [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/legalcode)*
 
 This apparent similarity might seem strange at first sight, but there is often a deeper reality to it: a PhD advisor, and by extension the relationship that a student has with their advisor, has enormous influence over the graduate school experience of the student. Just as a romantic relationship requires effort, communication, honesty and integrity, so does the relationship with one’s PhD advisor.
 
