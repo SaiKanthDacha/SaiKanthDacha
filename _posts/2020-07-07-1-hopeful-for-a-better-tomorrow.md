@@ -5,7 +5,7 @@ permalink: /posts/2020/07/hopeful-for-a-better-tomorrow/
 firstPublishedAt: 1594150658264
 latestPublishedAt: 1594227215424
 slug: hopeful-for-a-better-tomorrow
-excerpt: The times that we live in can seem paradoxical. As I write this during the COVID-19 pandemic, we are witnessing deep uncertainty but also immense potential, great challenges but also promising solutions, and extreme inequality but also increasing prosperity. In this blog article, I write about some of the social challenges facing our societies today, about hope, optimism, the role of the scientific method and collective, inclusive action. Click on the link above to read more.
+excerpt: The times that we live in can seem paradoxical. As I write this during the COVID-19 pandemic, we are witnessing deep uncertainty but also immense potential, great challenges but also promising solutions, and extreme inequality but also increasing prosperity. In this blog article, I write about some of the social challenges facing our societies today, about hope, optimism, the role of the scientific method and collective, inclusive action.
 tags:
   - blog
   - writing
