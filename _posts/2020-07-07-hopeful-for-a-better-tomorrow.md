@@ -21,7 +21,7 @@ In late May, SpaceX and NASA pulled off a historic achievement: the first commer
 
 <div align="center"> Reflection | Image © Author</div>
 
-<br></br>
+<br/><br/>
 
 # A fallacy and a correlation
 
