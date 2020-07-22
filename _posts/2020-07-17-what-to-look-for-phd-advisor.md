@@ -114,7 +114,9 @@ Despite the complaints that I’ve had some times, I am incredibly grateful for 
 
 ![Emailing a Professor](https://cdn-images-1.medium.com/max/1300/1*R0-E-ER33D_RXF72oxWBsA.jpeg)
 
-###### *Emailing a Professor | © [Jorge Cham](http://www.phdcomics.com)*
+<div align="center"> Emailing a Professor | <a href="https://www.phdcomics.com">© Jorge Cham</a></div>
+
+
 
 Needless to say, this article is neither “expert advice” nor “peer-reviewed”. But it was written with the hope that at least some of it will be useful. All this is is the inner thoughts of a 4th year PhD student that has hit multiple roadblocks on his research and is waiting for his advisor to respond to some of his emails.
 
