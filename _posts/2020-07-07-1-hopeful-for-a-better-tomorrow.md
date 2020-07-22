@@ -1,13 +1,17 @@
 ---
 title: 'Hopeful for a better tomorrow'
 date: 2020-07-07
-permalink: /posts/2020/07/blog-post-1-full/
+permalink: /posts/2020/07/hopeful-for-a-better-tomorrow/
 firstPublishedAt: 1594150658264
 latestPublishedAt: 1594227215424
 slug: hopeful-for-a-better-tomorrow
 tags:
   - blog
   - writing
+  - hope
+  - optimism
+  - science
+
 ---
 
 In late May, SpaceX and NASA pulled off a historic achievement: the first commercial launch of a manned mission into space. In humanity’s quest to become a space-faring civilization, commercialization of space travel could prove an important milestone, as it opens up the space industry to any individual that is willing to try. Or so it should be. The unfortunate reality is that many that are willing to try never end up getting a chance to even entertain their dreams, let alone act on them.
