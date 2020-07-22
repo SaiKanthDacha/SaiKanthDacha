@@ -25,6 +25,7 @@ Although these sound like the thoughts of someone worried if their partner/spous
 !["Impostor Syndrome"](https://cdn-images-1.medium.com/max/3646/1*PkjgmUn8qaSU6RKPBRp6nw.png)
 
 <div align="center"> Impostor Syndrome | <a href="https://www.behance.net/gallery/29504293/Impostor-Syndrome">Artwork © Laura Weiszer</a>, <a href="https://creativecommons.org/licenses/by-nc/4.0/legalcode">Creative Commons license</a></div>
+<br/><br/>
 
 
 
@@ -32,7 +33,10 @@ This apparent similarity might seem strange at first sight, but there is often a
 
 <img src="https://cdn-images-1.medium.com/max/1200/1*aP-ybyq48ErZWyOIZuSUnw.gif" alt="A light-hearted take on marriage and PhD" style="zoom:80%;" />
 
-###### *A light-hearted take on marriage and PhD | [© Jorge Cham](http://phdcomics.com/comics/archive.php?comicid=1296)*
+<div align="center"> A light-hearted take on marriage and PhD | <a href="https://www.phdcomics.com">© Jorge Cham</a></div>
+<br/><br/>
+
+
 
 # The struggle is real
 
