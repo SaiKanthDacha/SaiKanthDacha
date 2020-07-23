@@ -111,7 +111,7 @@ If there is anything that you take away from this article, I hope it is that the
 
 Checking all of these boxes might not be possible for many. An advisor situation without any issues whatsoever might be even more unlikely. I certainly have had my own challenges and struggles in this regard. I’ve realized that some level of friction and some compromise is almost inevitable, and that that is not necessarily a result of you or your advisor not doing enough, but rather a reflection of the difficulty and complexity of undertaking scientific research. But by asking the right questions before (or even after) making the commitment, and by demanding what is only fair, we not only help our individual selves, but we also help build an environment where the needs of graduate students are better heard. And that, in my view, ultimately only strengthens academia and the scientific community at large.
 
-Despite the complaints that I’ve had some times, I am incredibly grateful for the extremely considerate human being and the brilliant researcher that my advisor is — in that order. My hope is that you will be too, for your future advisor.
+I am incredibly grateful for the extremely considerate human being and the brilliant researcher that my advisor is — in that order. My hope is that you will be too, for your future advisor.
 
 ![Emailing a Professor](https://cdn-images-1.medium.com/max/1300/1*R0-E-ER33D_RXF72oxWBsA.jpeg)
 
