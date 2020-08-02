@@ -76,7 +76,7 @@ Galileo was alone in his battle for science, and not only himself but the entire
 
 The scientific community will continue lead the fight against pseudoscience and propaganda, but we as a people will only succeed when all of us come together and do our part — scientists and non-scientists alike. We must work to establish a baseline of scientific temperament among the general public. An ability on the part of an average citizen to spot pseudoscience would be greatly helpful. To that end, here are some things to look for the next time you are presented with miracle “science” of temples or “logical” arguments for how vaccines cause autism.
 
-## **1) Is it referenced ?**
+## **1) Is it referenced?**
 
 This is perhaps the easiest thing to check. Does a written article on the magical powers of cow urine contain references to peer-reviewed research? When Jaggi Vasudev or Nithyananda uploads yet another video on social media and make claims of all sorts, do they seem to be referencing any sort of peer-reviewed research carried out at all? Does the politician reference a scientific journal article when he claims that climate change is a hoax? If the answer is no, you should be thinking “strike one”.
 
