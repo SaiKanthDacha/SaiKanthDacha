@@ -114,6 +114,6 @@ By construct, we are all born ignorant. We have, however, evolved to be curious.
 
 Life on earth has survived and evolved for long enough for us to be able to ask big questions. We are closer now than ever before to not only answering some of these questions but also in building a more rational and just society. In pursuit of such a reality, it is not enough if some of us practice rationality while the rest of us continue to fuel charlatanry, misinformation and pseudoscience, for that only ever proves counterproductive. Promoting fact and reason is a collective responsibility of all of us. We can do better. And we must do better.
 
-
+<div id="dot" align="center">.     .     .</div>
 
 *Suggested watching (also a reference for the tips listed here): "[Thaumaturgy in the Age of Science](https://www.youtube.com/watch?v=xRjEPwL8Lxk)" by Prof. V. Balakrishnan*
