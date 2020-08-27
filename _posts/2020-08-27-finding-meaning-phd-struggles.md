@@ -5,11 +5,7 @@ permalink: /posts/2020/08/finding-meaning-phd-struggles/
 firstPublishedAt: 0
 latestPublishedAt: 0
 slug: finding-meaning-phd-struggles
-excerpt: 4 years ago, if I had known all that I'd have to give up to be able to do my PhD, if I had known the impact that it would have on my mental health, and if I had known the struggles that came with it, I probably would've hesitated to go to grad school.
-
-Today, all of those things have become my lived reality; they are the lived reality of PhD students across the world. There was probably no way for me to know these things in advance, but now that I do, the perspective that I have as I look back is a humbling one. Although I don't regret choosing to do a PhD, the increasing rates of anxiety, depression and mental health issues among PhD students deeply concerns me.
-
-In this article that I wrote for @thefacultypub on Medium, I draw on lessons from Logotherapy, developed and pioneered by Viktor Frankl, and I share my thoughts on how I was able to find meaning in my struggles and better cope with them.
+excerpt: 4 years ago, if I had known all that I'd have to give up to be able to do my PhD, if I had known the impact that it would have on my mental health, and if I had known the struggles that came with it, I probably would've hesitated to go to grad school. Today, all of those things have become my lived reality. In this article that I wrote for @thefacultypub on Medium, I draw on lessons from Logotherapy, developed and pioneered by Viktor Frankl, and I share my thoughts on how I was able to find meaning in my struggles and better cope with them.
 
 tags:
   - blog
