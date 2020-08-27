@@ -20,7 +20,7 @@ tags:
   - mental health
 ---
 
-![](/Users/saikanthdacha/My files/Blog/Medium/25 August 2020/volkan-olmez-wESKMSgZJDo-unsplash.jpg)
+![](https://miro.medium.com/max/700/1*P7DKnYW-EprBFMoER_-gEw.jpeg)
 
 <div align="center"> Photo by Volkan Olmez on <a href="https://unsplash.com/s/photos/phd-depression?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
