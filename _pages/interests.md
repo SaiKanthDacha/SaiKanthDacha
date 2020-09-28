@@ -11,7 +11,7 @@ redirect_from:
 
 ### Photography
 
-I am an avid photographer. I own the Canon EOS 1200D DSLR with the 18-55 mm and 55-250 mm lenses. The fascinatingly beautiful campus that IIT Madras was, it proved to be paradise for the wildlife photographer and nature lover in me. I post regularly on [500px](https://www.500px.com/saikanthdacha) and [Instagram](https://www.instagram.com/saikanthdacha).
+I am an avid photographer. I own the Canon EOS 1200D DSLR with the 18-55 mm and 55-250 mm lenses. The fascinatingly beautiful campus that IIT Madras was, it proved to be paradise for the wildlife photographer and nature lover in me. I post semi-regularly on [500px](https://www.500px.com/saikanthdacha) and [Instagram](https://www.instagram.com/saikanthdacha).
 
 ### Writing
 
