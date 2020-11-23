@@ -14,7 +14,7 @@ redirect_from:
 
 *January 2017 - present*; *Graduate Research* *([Photonics Research Laboratory](https://www.photonics.umd.edu))*
 
-*Guide: Prof. Thomas Murphy, **Institute for Research in Electronics and Applied Physics (IREAP)**, University of Maryland*
+*PI: Prof. Thomas E. Murphy, **Institute for Research in Electronics and Applied Physics (IREAP)**, University of Maryland*
 
 - Experimentally investigating complex nonlinear interactions between spatial modes of multimode and few-mode fibers arising from Kerr and Raman optical nonlinearities.
 
@@ -22,7 +22,7 @@ redirect_from:
 
 *September 2015 - June2016; Bachelor's Thesis Project*
 
-*Guide: Dr. Deepa Venkitesh, **Department of Electrical Engineering, IIT Madras***
+*PI: Dr. Deepa Venkitesh, **Department of Electrical Engineering, IIT Madras***
 
 - Worked on Four Wave Mixing-based Phase Sensitive Amplification and Phase Squeezing in a Semiconductor Optical Amplifier (SOA).
 - Demonstrated, via numerical simulation, the phase sensitivity of gain seen by a signal.
@@ -33,7 +33,7 @@ redirect_from:
 
 *May-August 2015, as part of [LIGO SURF](https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/index.shtml) 2015 at Caltech*
 
-*Guides: Dr. Gabriele Vajente, Prof. Rana Adhikari, **California Institute of Technology (Caltech)***
+*PI's: Dr. Gabriele Vajente, Prof. Rana Adhikari, **California Institute of Technology (Caltech)***
 
 - Worked on the Crackling Noise detection experiment, which aims at detecting crackling noise arising in Maraging Steel blade springs used in the Advanced [LIGO](https://www.ligo.org) suspension systems.
 - Successfully designed, developed and implemented a feedback damping system for a suspended optics breadboard that was part of the ultra-sensitive Crackling Noise detection setup.
@@ -43,7 +43,7 @@ redirect_from:
 
 *December 2014 - April 2015*
 
-*Guide: Dr. CV Krishnamurthy, **Department of Physics, IIT Madras***
+*PI: Prof. CV Krishnamurthy, **Department of Physics, IIT Madras***
 
 - Built an experimental setup to study the statistics of photons emerging from a pseudo-thermal light source. Using low cost equipment such as APD as opposed to conventionally used and costly PMT’s.
 - The aim is to extract photon statistics without single photon counting as is done in traditional experiments.
@@ -52,7 +52,7 @@ redirect_from:
 
 *May-August 2014, as part of a research internship at Defence Research and Development Organization (DRDO), Govt. of India*
 
-*Guides: Dr. E Varadarjan, Scientist E, **DRDO***
+*PI: Dr. E Varadarjan, Scientist E, **DRDO***
 
 - Used Silvaco TCAD tools to simulate Pentacene-based organic ﬁeld eﬀect transistors to study device characteristics and mobility performance.
 - Successfully obtained transfer and drain characteristics of the transistor that matched with the expected results and experimental data reported in literature.
