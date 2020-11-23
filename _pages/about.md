@@ -18,7 +18,7 @@ I am currently working with Prof. Thomas E. Murphy as part of the [Photonics Res
 
 ## Skills
 
-Over the years, the projects that I've worked on have ranged from numerical/computational to heavily experimental. I have experience working in experimental optics laboratories, including the use of laser systems, fiber and free-space optics, imaging systems, high-speed measurements, automated data acquisition and data analysis. On the numerical side, I'm comfortable with the use of MATLAB/Python for numerical simulations of guided wave systems. For more on the projects that I have taken up over the years, please visit the [Projects](https://skdacha.com/projects/) page.
+The projects that I have worked on over the years have ranged from purely numerical/computational to heavily experimental. I have experience working in experimental optics laboratories, including the use of laser systems, fiber and free-space optics, imaging systems, high-speed measurements, automated data acquisition and data analysis. On the numerical side, I'm comfortable with the use of MATLAB/Python for numerical simulations of guided wave systems. For more on the projects that I have taken up over the years, please visit the [Projects](https://skdacha.com/projects/) page.
 
 ## Other Interests
 
