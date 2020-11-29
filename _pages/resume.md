@@ -14,10 +14,8 @@ redirect_from:
 
 
 
-<div>
-<iframe>  src="/files/pdf/Resume_SaiKanthDacha_Nov2020_v2.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"</iframe>
-</div>
 
+<embed  src="/files/pdf/Resume_SaiKanthDacha_Nov2020_v2.pdf" type="application/pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0">
 
 
 
