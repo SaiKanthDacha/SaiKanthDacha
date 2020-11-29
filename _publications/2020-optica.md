@@ -7,5 +7,5 @@ date: 2020-11-11
 venue: 'arXiv.org'
 paperurl: ''
 link: 'https://www.osapublishing.org/optica/abstract.cfm?doi=10.1364/OPTICA.409060'
-citation: 'S.K. Dacha, T.E. Murphy, &quot;Spatiotemporal characterization of nonlinear intermodal interference between selectively excited modes of a few-Mode fiber&quot;, arXiv.org/2005.00135 (2020)'
+citation: 'S.K. Dacha, T.E. Murphy, &quot;Spatiotemporal characterization of nonlinear intermodal interference between selectively excited modes of a few-Mode fiber&quot;, Optica 7 (2020)'
 ---
