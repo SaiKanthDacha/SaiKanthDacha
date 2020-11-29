@@ -13,5 +13,5 @@ redirect_from:
 A copy of my résumé can be found [here](https://drive.google.com/file/d/17_JiBXmcBq2eWV7ym4kldc1Mby64HYxN/view?usp=sharing).
 
 ```
-{% pdf "https://drive.google.com/file/d/17_JiBXmcBq2eWV7ym4kldc1Mby64HYxN/view?usp=sharing" %}
+{% pdf "/files/Resume_Sai Kanth Dacha_Nov2020_v2" %}
 ```
