@@ -1,3 +1,21 @@
+---
+title: 'The Earth-bending Scale of the Great Lakes'
+date: 2021-01-11
+permalink: /posts/2021/01/earth-bending-scale-of-great-lakes/
+firstPublishedAt: 0
+latestPublishedAt: 0
+slug: earth-bending-scale-of-great-lakes
+excerpt: Did you know that you don't need to be in space to observe the effects of earth's curvature?
+
+tags:
+  - blog
+  - writing
+  - earth
+  - hiking
+  - great lakes
+  - chicago
+---
+
 ## The Earth-bending Scale of the Great Lakes
 
 ![Lake Michigan, April 2019. Photo by author](https://cdn-images-1.medium.com/max/8514/1*x-zO9KOr3xXj5vxUSZTTxg.jpeg)
