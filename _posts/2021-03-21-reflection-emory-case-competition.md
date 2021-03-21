@@ -5,7 +5,7 @@ permalink: /posts/2021/03/reflection-emory-case-competition/
 firstPublishedAt: 0
 latestPublishedAt: 0
 slug: reflection-emory-case-competition
-excerpt: A reflection after taking part in the 2021 Emory Global Health Case Competition
+excerpt: A reflection after taking part in the 2021 Emory Global Health Case Competition.
 
 tags:
   - blog
