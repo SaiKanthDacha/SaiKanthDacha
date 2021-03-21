@@ -38,3 +38,8 @@ I will likely never be a public health expert (not unless I’m willing to go th
 A shout out to my amazing teammates: Anindita, Linette, Shifali and Ellen. Watch our team's case submission here:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/j1-Z93E8T20" title="Team 48 (UMD) Submission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+
+And thank you to Anindita and Linette for this ever-so-thoughtful and hilarious "paper plate" as a closing present:
+
+![paperplate_eghcc](/Users/saikanthdacha/My files/Github Website/SaiKanthDacha/files/jpg/paperplate_eghcc.jpg)
