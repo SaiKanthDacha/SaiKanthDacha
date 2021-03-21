@@ -1,5 +1,5 @@
 ---
-title: 'The Earth-bending Scale of the Great Lakes'
+title: 'Emory Global Health Case Competition - A Reflection'
 date: 2021-03-20
 permalink: /posts/2021/03/reflection-emory-case-competition/
 firstPublishedAt: 0
