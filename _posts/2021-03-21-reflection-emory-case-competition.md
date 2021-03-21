@@ -29,6 +29,6 @@ I will likely never be a public health expert (not unless I’m willing to go th
 
 <div id="dot" align="center">.     .     .</div>
 
-Watch our team's case submission here:
+A shout out to my amazing teammates: Anindita, Linette, Shifali and Ellen. Watch our team's case submission here:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/j1-Z93E8T20" title="Team 48 (UMD) Submission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
