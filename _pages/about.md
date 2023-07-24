@@ -1,50 +1,87 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
+gallery2:
+  - url: /assets/images/IMG_3907_1.jpg
+    image_path: /assets/images/IMG_3907_1.jpg
+    title: "Test gallery"
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<script type="application/ld+json">
+  {
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Sai Kanth Dacha",
+  "jobTitle": "Physicist",
+  "url": "skdacha.com",
+  "image": "https://skdacha.com/images/IMG_3907_1.png",
+  "sameAs": [
+    "https://twitter.com/saikanthdacha",
+    "http://linkedin.com/in/saikanthdacha/",
+    "https://skdacha.com",
+    "https://scholar.google.com/citations?user=E0I73ZQAAAAJ"
+  ]
+  }
+</script>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hi! My name is Sai Kanth, I am a Postdoctoral Research Scientist at the [Quantum and Nonlinear Photonics Group](https://gaeta.apam.columbia.edu) at Columbia University. In July 2022, I defended my Ph.D. thesis in Physics at the University of Maryland. I was previously (May-Dec 2021) a Research Intern at Nokia Bell Labs. In 2016, I received my Bachelor of Technology degree in Engineering Physics at the Indian Institute of Technology (IIT) Madras.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research interests lie in the broad area of photonics. Nonlinear optics, classical and quantum optical communication, orbital angular momentum (OAM) of light and multimode fibers are of specific interest to me. The intersection of fundamental optical science and modern day practical and scientific applications is one that I find fascinating.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+(Email: skd2165 [at] columbia [dot] edu)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<hr style="border:1px solid gray">
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Recent News
 
-**Markdown generator**
+- **<u>09/2022</u>**: I am excited to be joining Alex Gaeta's group at Columbia as a Postdoctoral Research Scientist!
+  
+  <!-- - **[Pinned] <u>07/2022</u>**: **Looking for postdoctoral level research opportunities**! Please reach out if you're looking to hire. -->
+- **<u>07/2022</u>**: I defended my Ph.D. thesis (Physics) on 'Spatiotemporal nonlinear optical effects in multimode fibers'! A pre-recorded version of my thesis defense talk is available [here](https://youtu.be/EO8tsCD3Sks).
+- **<u>05/2022</u>**: Our recent work on nonlinear interactions between OAM fiber modes has been [published in Optics Express](https://doi.org/10.1364/OE.453944)!
+- **<u>07/2021</u>**: **Congressional Science Advocacy**: As part of the [National Photonics Initiative (NPI)](https://www.lightourfuture.org/home/)'s [Congressional Visits](https://www.lightourfuture.org/home/get-involved/congressional-visits/), I met with the offices of several Representatives and Senators of the U.S. Congress to advocate for increased Federal funding for optical sciences
+- **<u>06/2021</u>**: Started my research internship at Bell Labs, working with Dr. René-Jean Essiambre!
+- **<u>03/2021</u>**: Represented the University of Maryland at the Emory Global Health Case Competition. Watch my team's case presentation [here](https://youtu.be/j1-Z93E8T20)!
+  
+  <!-- - **<u>01/2021</u>**: Our recent work on spatiotemporal characterization of nonlinear optical effects in few-mode fibers got [published in the prestigious journal *Optica*](https://doi.org/10.1364/OPTICA.409060)! -->
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Current Research
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+At the University of Maryland's [Institute for Research in Electronics and Applied Physics (IREAP)](https://ireap.umd.edu), I worked with [Prof. Thomas E. Murphy](https://ece.umd.edu/clark/faculty/443/Thomas-E-Murphy) on experimental investigation of nonlinear optical effects in multimode fibers. At [Bell Labs](https://www.bell-labs.com/#gref), I worked with [Dr. René-Jean Essiambre](http://www.bell-labs.com/about/researcher-profiles/reneessiambre/) on experimental quantum optical communication. Please see my [Research](https://skdacha.com/research/) page for further information.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<!--I work with Prof. Thomas E. Murphy as part of the [Photonics Research Laboratory](https://photonics.umd.edu) at the University of Maryland. My current work is on experimental investigation of nonlinear optical effects in multimode fibers. Despite having been around since before the advent of the single mode fiber, nonlinear optics in multimode fibers remains relatively understudied. Over the past few years, there has been a revival of interest in understanding nonlinear optics in these systems. As few-mode fibers and multimode fibers become more prevalent in longer-distance networks, and with the advent of techniques for spatially-multiplexed optical amplification, nonlinear effects in these fibers are expected to play an increasingly important role. As part of my work with Prof. Murphy, I develop high-resolution spatiotemporal characterization tools to better understand the physics governing intermodal nonlinear effects. More on my current and previous research [here](https://skdacha.com/research/).-->
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Skills
+
+<style>
+.adjust-line-height{
+    line-height: 1.5em;
+}
+</style>
+
+<div class="adjust-line-height">
+<ul>
+  <li>Design, planning and implementation of free-space and fiber optical experiments</li>
+  <li>Laser systems, fiber and free-space optics, imaging systems, high-speed measurements, spectroscopy, superconducting nanowire single photon detectors (SNSPDs)</li>
+  <li>Automated instrument control, data acquisition and analysis</li>
+  <li>Numerical simulation of guided wave optical systems using MATLAB, Python</li>
+  <li>Science communication and scientific writing for scientific as well as general audiences</li>
+</ul>
+</div>
+
+<!--The projects that I have worked on over the years have ranged from purely numerical/computational to heavily experimental. I have experience working in experimental optics laboratories, including the use of laser systems, fiber and free-space optics, imaging systems, high-speed measurements, automated data acquisition and data analysis. On the numerical side, I'm comfortable with the use of MATLAB/Python for numerical simulations of guided wave systems. For more on the projects that I have taken up over the years, please visit the [Projects](https://skdacha.com/projects/) page.-->
+
+## Other Interests
+
+I am an avid photographer and biker. I enjoy spending my free time reading, writing, cooking, painting, and playing Chess.
+
+I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new to me, be it the nitty gritty of modern commercial aviation, the fascinating world of ancient Roman history, the complicated field of psychology and mental health, or the all-important modern financial system. One of my favorite things is to explore and delve deep into topics that interest me, and finding that things that might initially seem unrelated in fact share deep connections and parallels.
+
+This "cross-disciplinary" (for the lack of a better term) view of the world extends into how I think about scientific research. I am a big believer and advocate in the idea of the [edge effect](https://www.npr.org/2018/07/02/625426015/the-edge-effect), and I strongly believe that the best and most creative science is done when scientists working in vastly different topics are talking and interacting with each other. 
+
+You can read more about my interests [here](https://skdacha.com/interests/).
