@@ -39,9 +39,9 @@ My research interests lie in the broad area of photonics. Nonlinear optics, clas
 
 ## Recent News
 
-- **<u>06/2023</u>**: I will be delivering a talk on work from my Ph.D. -- namely on intermodal nonlinear effects involving OAM fiber modes -- at the Nonlinear Optics Topical Meeting in Waikiki Beach, HI.  My talk ID is Th3A.6
-- **<u>05/2023</u>**: I will be presenting some exciting new research that I've been working on at Columbia at CLEO 2023! My talk ID is SW4L.4
-- **<u>02/2023</u>**: Earlier this week, I had the honor of visiting Capitol Hill to advocate for strong Federal support for optics and photonics R&D and meaningful workforce and immigration policy reforms. Please see the 'Science Policy' page for more info!
+- **<u>06/2023</u>**: I delivered a talk on work from my Ph.D., on intermodal nonlinear effects involving OAM fiber modes, at the Nonlinear Optics Topical Meeting in Waikiki Beach, HI.  (Talk ID: Th3A.6)
+- **<u>05/2023</u>**: I will be presenting some exciting new research that I've been working on at Columbia at CLEO 2023! (Talk ID: SW4L.4)
+- **<u>02/2023</u>**: I had the honor of visiting Capitol Hill to advocate for strong Federal support for optics and photonics R&D and meaningful workforce and immigration policy reforms. Please see the [Science Policy](https://skdacha.com/scipol/) page for more.
 - **<u>09/2022</u>**: I am excited to be joining Alexander Gaeta's group at Columbia as a Postdoctoral Research Scientist!
   
   <!-- - **[Pinned] <u>07/2022</u>**: **Looking for postdoctoral level research opportunities**! Please reach out if you're looking to hire. -->
@@ -83,7 +83,7 @@ At Columbia, I am a postdoc at [Prof. Alexander Gaeta](https://gaeta.apam.columb
 
 I am an avid photographer and biker. I enjoy spending my free time reading, writing, cooking, painting, and playing Chess.
 
-I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new to me, be it the nitty gritty of modern commercial aviation, ancient Roman history and its implications for the modern Western world, human psychology and mental health, or the simple yet deeply humbling game of chess. One of my favorite feelings as I learn about whatever it is that captures my attention at a given point in time is finding deep and hidden connections and parallels among things that might initially seem unrelated. 
+I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new and interesting to me, be it the nitty gritty of commercial aviation, ancient Roman history and its implications for the modern Western world, human psychology and mental health, or the simple yet deeply complex game of chess. Finding deep connections between things that might initially seem unrelated is a feeling that I relish.
 
 <!-- I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new to me, be it the nitty gritty of modern commercial aviation, the fascinating world of ancient Roman history, the complicated field of psychology and mental health, or the all-important modern financial system. One of my favorite things is to explore and delve deep into topics that interest me, and finding that things that might initially seem unrelated in fact share deep connections and parallels. -->
 
