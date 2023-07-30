@@ -83,7 +83,7 @@ At Columbia, I am a postdoc at [Prof. Alexander Gaeta](https://gaeta.apam.columb
 
 I am an avid photographer and biker. I enjoy spending my free time reading, writing, cooking, painting, and playing Chess.
 
-I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new and interesting to me, be it the nitty gritty of commercial aviation, ancient Roman history and its implications for the modern Western world, human psychology and mental health, or the simple yet deeply complex game of chess. Finding deep connections between things that might initially seem unrelated is a feeling that I relish.
+I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new and interesting to me, be it the nitty gritty of commercial aviation, ancient Roman history and its implications for the modern Western world, human psychology and mental health, or the simple yet deeply complex game of chess. Stumbling upon deep connections between things that might initially seem unrelated is a feeling that I relish.
 
 <!-- I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new to me, be it the nitty gritty of modern commercial aviation, the fascinating world of ancient Roman history, the complicated field of psychology and mental health, or the all-important modern financial system. One of my favorite things is to explore and delve deep into topics that interest me, and finding that things that might initially seem unrelated in fact share deep connections and parallels. -->
 
