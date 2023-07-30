@@ -59,7 +59,7 @@ At Columbia, I am a postdoc at [Prof. Alexander Gaeta](https://gaeta.apam.columb
 
 <!--I work with Prof. Thomas E. Murphy as part of the [Photonics Research Laboratory](https://photonics.umd.edu) at the University of Maryland. My current work is on experimental investigation of nonlinear optical effects in multimode fibers. Despite having been around since before the advent of the single mode fiber, nonlinear optics in multimode fibers remains relatively understudied. Over the past few years, there has been a revival of interest in understanding nonlinear optics in these systems. As few-mode fibers and multimode fibers become more prevalent in longer-distance networks, and with the advent of techniques for spatially-multiplexed optical amplification, nonlinear effects in these fibers are expected to play an increasingly important role. As part of my work with Prof. Murphy, I develop high-resolution spatiotemporal characterization tools to better understand the physics governing intermodal nonlinear effects. More on my current and previous research [here](https://skdacha.com/research/).-->
 
-## Skills
+<!-- ## Skills
 
 <style>
 .adjust-line-height{
@@ -75,7 +75,7 @@ At Columbia, I am a postdoc at [Prof. Alexander Gaeta](https://gaeta.apam.columb
   <li>Numerical simulation of guided wave optical systems using MATLAB, Python</li>
   <li>Science communication and scientific writing for scientific as well as general audiences</li>
 </ul>
-</div>
+</div> -->
 
 <!--The projects that I have worked on over the years have ranged from purely numerical/computational to heavily experimental. I have experience working in experimental optics laboratories, including the use of laser systems, fiber and free-space optics, imaging systems, high-speed measurements, automated data acquisition and data analysis. On the numerical side, I'm comfortable with the use of MATLAB/Python for numerical simulations of guided wave systems. For more on the projects that I have taken up over the years, please visit the [Projects](https://skdacha.com/projects/) page.-->
 
@@ -83,8 +83,10 @@ At Columbia, I am a postdoc at [Prof. Alexander Gaeta](https://gaeta.apam.columb
 
 I am an avid photographer and biker. I enjoy spending my free time reading, writing, cooking, painting, and playing Chess.
 
-I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new to me, be it the nitty gritty of modern commercial aviation, the fascinating world of ancient Roman history, the complicated field of psychology and mental health, or the all-important modern financial system. One of my favorite things is to explore and delve deep into topics that interest me, and finding that things that might initially seem unrelated in fact share deep connections and parallels.
+I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new to me, be it the nitty gritty of modern commercial aviation, ancient Roman history and its implications for the modern Western world, human psychology and mental health, or the simple yet deeply humbling game of chess. One of my favorite feelings as I learn about whatever it is that captures my attention at a given point in time is finding deep and hidden connections and parallels among things that might initially seem unrelated. 
 
-This "cross-disciplinary" (for the lack of a better term) view of the world extends into how I think about scientific research. I am a big believer and advocate in the idea of the [edge effect](https://www.npr.org/2018/07/02/625426015/the-edge-effect), and I strongly believe that the best and most creative science is done when scientists working in vastly different topics are talking and interacting with each other. 
+<!-- I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new to me, be it the nitty gritty of modern commercial aviation, the fascinating world of ancient Roman history, the complicated field of psychology and mental health, or the all-important modern financial system. One of my favorite things is to explore and delve deep into topics that interest me, and finding that things that might initially seem unrelated in fact share deep connections and parallels. -->
 
-You can read more about my interests [here](https://skdacha.com/interests/).
+This "cross-disciplinary" (for the lack of a better term) view of the world extends into how I think about scientific research. I am a big believer and advocate in the idea of the [edge effect](https://www.npr.org/2018/07/02/625426015/the-edge-effect), and I strongly believe that the best and most creative science is done when scientists from a diverse set of backgrounds working in vastly different topics are talking and interacting with one another. 
+
+<!-- You can read more about my interests [here](https://skdacha.com/interests/). -->
