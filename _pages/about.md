@@ -41,13 +41,14 @@ My research interests lie in the broad area of photonics. Nonlinear optics, clas
 
 - **<u>06/2023</u>**: I will be delivering a talk on work from my Ph.D. -- namely on intermodal nonlinear effects involving OAM fiber modes -- at the Nonlinear Optics Topical Meeting in Waikiki Beach, HI.  My talk ID is Th3A.6
 - **<u>05/2023</u>**: I will be presenting some exciting new research that I've been working on at Columbia at CLEO 2023! My talk ID is SW4L.4
+- **<u>02/2023</u>**: Earlier this week, I had the honor of visiting Capitol Hill to advocate for strong Federal support for optics and photonics R&D and meaningful workforce and immigration policy reforms. Please see the 'Science Policy' page for more info!
 - **<u>09/2022</u>**: I am excited to be joining Alex Gaeta's group at Columbia as a Postdoctoral Research Scientist!
   
   <!-- - **[Pinned] <u>07/2022</u>**: **Looking for postdoctoral level research opportunities**! Please reach out if you're looking to hire. -->
 - **<u>07/2022</u>**: I defended my Ph.D. thesis (Physics) on 'Spatiotemporal nonlinear optical effects in multimode fibers'! A pre-recorded version of my thesis defense talk is available [here](https://youtu.be/EO8tsCD3Sks).
 - **<u>05/2022</u>**: Our recent work on nonlinear interactions between OAM fiber modes has been [published in Optics Express](https://doi.org/10.1364/OE.453944)!
 <!-- - **<u>07/2021</u>**: **Congressional Science Advocacy**: As part of the [National Photonics Initiative (NPI)](https://www.lightourfuture.org/home/)'s [Congressional Visits](https://www.lightourfuture.org/home/get-involved/congressional-visits/), I met with the offices of several Representatives and Senators of the U.S. Congress to advocate for increased Federal funding for optical sciences -->
-- **<u>06/2021</u>**: Started my research internship at Bell Labs, working with Dr. René-Jean Essiambre!
+<!-- - **<u>06/2021</u>**: Started my research internship at Bell Labs, working with Dr. René-Jean Essiambre! -->
 - **<u>03/2021</u>**: Represented the University of Maryland at the Emory Global Health Case Competition. Watch my team's case presentation [here](https://youtu.be/j1-Z93E8T20)!
   
   <!-- - **<u>01/2021</u>**: Our recent work on spatiotemporal characterization of nonlinear optical effects in few-mode fibers got [published in the prestigious journal *Optica*](https://doi.org/10.1364/OPTICA.409060)! -->
