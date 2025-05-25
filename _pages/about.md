@@ -57,36 +57,13 @@ My research interests lie in the broad area of photonics. Nonlinear optics, clas
 
 At Columbia, I am a postdoc at [Prof. Alexander Gaeta](https://gaeta.apam.columbia.edu)'s research group. My current research interests lie in the realm of microresonators, optical frequency combs and integrated photonics. Previously, at the University of Maryland's [Institute for Research in Electronics and Applied Physics (IREAP)](https://ireap.umd.edu), I worked with [Prof. Thomas E. Murphy](https://ece.umd.edu/clark/faculty/443/Thomas-E-Murphy) on experimental investigation of nonlinear optical effects in multimode fibers. At [Bell Labs](https://www.bell-labs.com/#gref), I worked with [Dr. René-Jean Essiambre](http://www.bell-labs.com/about/researcher-profiles/reneessiambre/) on experimental quantum optical communication. Please see my [Research](https://skdacha.com/research/) page for further information.
 
-<!--I work with Prof. Thomas E. Murphy as part of the [Photonics Research Laboratory](https://photonics.umd.edu) at the University of Maryland. My current work is on experimental investigation of nonlinear optical effects in multimode fibers. Despite having been around since before the advent of the single mode fiber, nonlinear optics in multimode fibers remains relatively understudied. Over the past few years, there has been a revival of interest in understanding nonlinear optics in these systems. As few-mode fibers and multimode fibers become more prevalent in longer-distance networks, and with the advent of techniques for spatially-multiplexed optical amplification, nonlinear effects in these fibers are expected to play an increasingly important role. As part of my work with Prof. Murphy, I develop high-resolution spatiotemporal characterization tools to better understand the physics governing intermodal nonlinear effects. More on my current and previous research [here](https://skdacha.com/research/).-->
-
-<!-- ## Skills
-
-<style>
-.adjust-line-height{
-    line-height: 1.5em;
-}
-</style>
-
-<div class="adjust-line-height">
-<ul>
-  <li>Design, planning and implementation of free-space and fiber optical experiments</li>
-  <li>Laser systems, fiber and free-space optics, imaging systems, high-speed measurements, spectroscopy, superconducting nanowire single photon detectors (SNSPDs)</li>
-  <li>Automated instrument control, data acquisition and analysis</li>
-  <li>Numerical simulation of guided wave optical systems using MATLAB, Python</li>
-  <li>Science communication and scientific writing for scientific as well as general audiences</li>
-</ul>
-</div> -->
-
-<!--The projects that I have worked on over the years have ranged from purely numerical/computational to heavily experimental. I have experience working in experimental optics laboratories, including the use of laser systems, fiber and free-space optics, imaging systems, high-speed measurements, automated data acquisition and data analysis. On the numerical side, I'm comfortable with the use of MATLAB/Python for numerical simulations of guided wave systems. For more on the projects that I have taken up over the years, please visit the [Projects](https://skdacha.com/projects/) page.-->
 
 ## Other Interests
 
-I am an avid photographer and biker. I enjoy spending my free time reading, writing, cooking, painting, and playing Chess.
-
-I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new and interesting to me, be it the nitty gritty of commercial aviation, ancient Roman history and its implications for the modern Western world, human psychology and mental health, or the simple yet deeply complex game of chess. Stumbling upon deep connections between things that might initially seem unrelated is a feeling that I relish.
+I am an avid photographer and biker. I enjoy spending my free time playing the piano, reading, writing, cooking, painting, and playing chess. I enjoy learning deeply about anything that sufficiently capture my curiosity, be it the nitty gritty of commercial aviation, Roman history and its implications for the modern West, human psychology and mental health, urbanism, or the simple yet deeply complex game of chess. Stumbling upon deep connections between things that might initially seem unrelated is a feeling that I relish.
 
 <!-- I consider myself a "[philomath](https://www.thefreedictionary.com/philomath)" in that I enjoy letting myself get lost in learning things that are new to me, be it the nitty gritty of modern commercial aviation, the fascinating world of ancient Roman history, the complicated field of psychology and mental health, or the all-important modern financial system. One of my favorite things is to explore and delve deep into topics that interest me, and finding that things that might initially seem unrelated in fact share deep connections and parallels. -->
 
-This "cross-disciplinary" (for the lack of a better term) view of the world extends into how I think about scientific research. I am a big believer and advocate in the idea of the [edge effect](https://www.npr.org/2018/07/02/625426015/the-edge-effect), and I strongly believe that the best and most creative science is done when scientists from a diverse set of backgrounds working in vastly different topics are talking and interacting with one another. 
+This "cross-disciplinary" (for the lack of a better term) view of the world extends into how I think about scientific research. I am a big advocate of the idea of the [edge effect](https://www.npr.org/2018/07/02/625426015/the-edge-effect), and I strongly believe that the best and most creative science is done when scientists from a diverse set of backgrounds working in vastly different topics talk and interact with one another. 
 
 <!-- You can read more about my interests [here](https://skdacha.com/interests/). -->
