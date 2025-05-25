@@ -39,6 +39,8 @@ My research interests lie in the broad area of photonics. Nonlinear optics, clas
 
 ## Recent News
 
+- **<u>01/2025</u>**: At SPIE Photonics West this year, I delivered an invited talk on my prior work at Bell Labs on optical communication in photon-starved channels ([link](https://ui.adsabs.harvard.edu/abs/2025SPIE13374E..02D/abstract))
+- **<u>05/2024</u>**: I delivered three talks at CLEO 2024. One on my current research on resistance thermometry for integrated photonics ([link](https://opg.optica.org/abstract.cfm?uri=cleo_si-2024-STu4Q.3)), and two on my prior work at Bell Labs on deep-space optical communication (links [here](https://opg.optica.org/abstract.cfm?uri=cleo_si-2024-SW3N.5) and [here](https://opg.optica.org/abstract.cfm?uri=cleo_si-2024-SF3D.3))
 - **<u>06/2023</u>**: I delivered a talk on work from my Ph.D., on intermodal nonlinear effects involving OAM fiber modes, at the Nonlinear Optics Topical Meeting in Waikiki Beach, HI.  (Talk ID: Th3A.6)
 - **<u>05/2023</u>**: I will be presenting some exciting new research that I've been working on at Columbia at CLEO 2023! (Talk ID: SW4L.4)
 - **<u>02/2023</u>**: I had the honor of visiting Capitol Hill to advocate for strong Federal support for optics and photonics R&D and meaningful workforce and immigration policy reforms. Please see the [Science Policy](https://skdacha.com/scipol/) page for more.
@@ -46,10 +48,10 @@ My research interests lie in the broad area of photonics. Nonlinear optics, clas
   
   <!-- - **[Pinned] <u>07/2022</u>**: **Looking for postdoctoral level research opportunities**! Please reach out if you're looking to hire. -->
 - **<u>07/2022</u>**: I defended my Ph.D. thesis (Physics) on 'Spatiotemporal nonlinear optical effects in multimode fibers'! A pre-recorded version of my thesis defense talk is available [here](https://youtu.be/EO8tsCD3Sks).
-- **<u>05/2022</u>**: Our recent work on nonlinear interactions between OAM fiber modes has been [published in Optics Express](https://doi.org/10.1364/OE.453944)!
+<!-- - **<u>05/2022</u>**: Our recent work on nonlinear interactions between OAM fiber modes has been [published in Optics Express](https://doi.org/10.1364/OE.453944)! -->
 <!-- - **<u>07/2021</u>**: **Congressional Science Advocacy**: As part of the [National Photonics Initiative (NPI)](https://www.lightourfuture.org/home/)'s [Congressional Visits](https://www.lightourfuture.org/home/get-involved/congressional-visits/), I met with the offices of several Representatives and Senators of the U.S. Congress to advocate for increased Federal funding for optical sciences -->
 <!-- - **<u>06/2021</u>**: Started my research internship at Bell Labs, working with Dr. René-Jean Essiambre! -->
-- **<u>03/2021</u>**: Represented the University of Maryland at the Emory Global Health Case Competition. Watch my team's case presentation [here](https://youtu.be/j1-Z93E8T20)!
+<!-- - **<u>03/2021</u>**: Represented the University of Maryland at the Emory Global Health Case Competition. Watch my team's case presentation [here](https://youtu.be/j1-Z93E8T20)! -->
   
   <!-- - **<u>01/2021</u>**: Our recent work on spatiotemporal characterization of nonlinear optical effects in few-mode fibers got [published in the prestigious journal *Optica*](https://doi.org/10.1364/OPTICA.409060)! -->
 
