@@ -41,8 +41,8 @@ My research interests lie in the broad area of photonics. Nonlinear optics, clas
 
 - **<u>01/2025</u>**: At SPIE Photonics West this year, I delivered an invited talk on my prior work at Bell Labs on optical communication in photon-starved channels ([link](https://ui.adsabs.harvard.edu/abs/2025SPIE13374E..02D/abstract))
 - **<u>05/2024</u>**: I delivered three talks at CLEO 2024. One on my current research on resistance thermometry for integrated photonics ([link](https://opg.optica.org/abstract.cfm?uri=cleo_si-2024-STu4Q.3)), and two on my prior work at Bell Labs on deep-space optical communication (links [here](https://opg.optica.org/abstract.cfm?uri=cleo_si-2024-SW3N.5) and [here](https://opg.optica.org/abstract.cfm?uri=cleo_si-2024-SF3D.3))
-- **<u>06/2023</u>**: I delivered a talk on work from my Ph.D., on intermodal nonlinear effects involving OAM fiber modes, at the Nonlinear Optics Topical Meeting in Waikiki Beach, HI.  (Talk ID: Th3A.6)
-- **<u>05/2023</u>**: I will be presenting some exciting new research that I've been working on at Columbia at CLEO 2023! (Talk ID: SW4L.4)
+- **<u>06/2023</u>**: I delivered a talk on work from my Ph.D., on intermodal nonlinear effects involving OAM fiber modes, at the Nonlinear Optics Topical Meeting in Waikiki Beach, HI ([link](https://doi.org/10.1364/NLO.2023.Th3A.6))
+- **<u>05/2023</u>**: I will be presenting some exciting new research that I've been working on at Columbia at CLEO 2023! ([link](https://opg.optica.org/abstract.cfm?uri=CLEO_SI-2023-SW4L.4))
 - **<u>02/2023</u>**: I had the honor of visiting Capitol Hill to advocate for strong Federal support for optics and photonics R&D and meaningful workforce and immigration policy reforms. Please see the [Science Policy](https://skdacha.com/scipol/) page for more.
 - **<u>09/2022</u>**: I am excited to be joining Alexander Gaeta's group at Columbia as a Postdoctoral Research Scientist!
   
